@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansh Srivastava</h1>
 <h3 align="center">A Passionate Machine Learning Developer</h3>
 
-<img align="right" alt="coding" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F507629-creative-coding-perfect-loop-gif&psig=AOvVaw185HSb7waB0LusDypq_ktY&ust=1671535033569000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCH8LDHhfwCFQAAAAAdAAAAABAN">
+<img align="right" alt="coding" width=400 src="http://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh21112002&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh21112002" /> </p>
 
