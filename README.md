@@ -1,4 +1,4 @@
-<img src="https://github.com/priyansh21112002/priyansh21112002/blob/main/Priyansh%20Srivastava.png" class="center">
+<img src="https://github.com/priyansh21112002/priyansh21112002/blob/main/Priyansh%20Srivastava.png" class="center"> 
  
 <h1 align="center">Hi 👋, I'm Priyansh Srivastava</h1>
 <h3 align="center">A Passionate Machine Learning Developer</h3>
