@@ -24,6 +24,8 @@
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Coursera-logo_500x500.svg/1200px-Coursera-logo_500x500.svg.png" height=30>
   <div>  </div>
+  <img src="https://archive.nptel.ac.in/assets/nptel_assets/images/nptel-logo.png" height=50>
+  <div>  </div>
   <img src="https://zeevector.com/wp-content/uploads/IBM-White-Logo.png" height=130>
   <div>  </div>
   <img src="https://avatars.githubusercontent.com/u/15233733?s=280&v=4" height=230>
