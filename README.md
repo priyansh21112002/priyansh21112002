@@ -71,7 +71,7 @@ Unity (C#), ChromaDB, Plotly, Git, Linux
 ---
 
 ### 📄 Resume
-📎 [View Resume](https://drive.google.com/file/d/1neC0ctYn6gGY5N8uqKBuIJS_M7QRZLEs/view)
+📎 [View Resume](https://drive.google.com/file/d/1_CEDlsdsrnNrxWOIQ55YVEBx3m8zduXL/view?usp=sharing)
 
 ---
 
